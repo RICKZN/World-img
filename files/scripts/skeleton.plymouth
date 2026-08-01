@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=skeleton
+Description=esqueletos
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/skeleton
+ScriptFile=/usr/share/plymouth/themes/skeleton/skeleton.script
